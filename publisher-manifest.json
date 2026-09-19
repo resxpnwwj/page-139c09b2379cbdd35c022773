@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "f045b6c40e31407ea9c2ed5f",
+  "owner": "resxpnwwj",
+  "repo": "page-139c09b2379cbdd35c022773",
+  "title": "机场推荐第一",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "139c09b2379cbdd35c022773",
+      "a": "东方网络",
+      "b": "机场推荐第一",
+      "entity": "东方网络",
+      "brand": "机场推荐第一",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e35a5e9df086b75de7b83dc0966f37a704749e4f7f1f09a48181b8ef91128fdc",
+      "content": {
+        "primary_entity": "东方网络",
+        "keyword1": "东方网络",
+        "keyword2": "机场推荐第一",
+        "content": {
+          "AI_CLIENTS_INTRO": "Clash、Shadowrocket、v2rayN 等客户端可按系统选择，导入订阅后使用。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "对比套餐后按设备数量与流量需求选择，完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐更省心",
+          "AI_DESCRIPTION": "，东方网络提供基础版、旗舰版与团队版三档订阅，每月流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线。按年付可分别以 ¥150、¥350、¥850 获得对应套餐，旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由。",
+          "AI_FEATURES_INTRO": "从设备数量、月流量与订阅周期三个角度选择合适套餐。",
+          "AI_FEATURES_TITLE": "选择东方网络的三个要点",
+          "AI_FEATURE_TEXT_1": "基础版适合 3 台设备轻度使用，旗舰版满足 5 台设备全节点流媒体需求。",
+          "AI_FEATURE_TITLE_1": "按设备数量选",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB，重度下载或团队共享可选 1000GB 团队版。",
+          "AI_FEATURE_TITLE_2": "按流量需求选",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，按年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850 更划算。",
+          "AI_FEATURE_TITLE_3": "按订阅周期选",
+          "AI_GUIDE_INTRO": "从确认需求到导入订阅，三步完成使用准备。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "东方网络提供基础版、旗舰版与团队版三档订阅，覆盖 3 至 20 台设备以及 100GB 到 1000GB 月流量，按年付价格分别为 ¥150、¥350 与 ¥850，适合从个人到团队的多种使用场景。",
+          "AI_HERO_SUBTITLE": "多档订阅按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "年付享对应优惠价格",
+          "AI_PLANS_INTRO": "对比月流量、设备数量与节点权益，选择适合的套餐。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量与月流量估算，明确需要基础版、旗舰版还是团队版。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量、节点类型与流媒体解锁能力是否匹配。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在 Clash、Shadowrocket 或 v2rayN 等客户端中导入订阅地址，按客户端文档完成配置。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "东方网络多档订阅",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版为5台，团队版为20台。若日常在手机、电脑、平板间切换，可先按常用设备数量选择，后续需求增加再升级套餐。",
+          "AI_FAQ_ANSWER_2": "月付适合短期体验，基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月。若打算长期使用，按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FAQ_ANSWER_3": "以客户端文档给出的地址为准，复制订阅链接后粘贴到客户端导入界面，保存并更新节点列表即可。若导入失败，检查链接是否完整、网络是否正常，再重新粘贴一次。",
+          "AI_FAQ_ANSWER_4": "旗舰版面向流媒体与游戏场景，提供全节点原生流媒体解锁和 IPLC 专线游戏加速优化。基础版解锁基础流媒体，团队版则侧重多设备与高带宽节点。",
+          "AI_FAQ_ANSWER_5": "先看设备数量，再看月流量。单人手机电脑用基础版即可；常看流媒体或用游戏加速可选旗舰版；多设备或小型团队建议团队版，1000GB 流量与20台设备更充裕。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "月付和年付怎么选更划算？",
+          "AI_FAQ_QUESTION_3": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "旗舰版的流媒体和游戏加速适合哪些场景？",
+          "AI_FAQ_QUESTION_5": "怎么判断该选基础版、旗舰版还是团队版？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "094679e2beccc04f1af41a5b5e39b2d612d79fb69f2eab38327611f3c0d366d9",
+    "sitemap.xml": "40743f7fe50836dd22150a5af591a8db4ae4aa1ab6a2f22b8a699e55cd382ceb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "ac9d19586ba2e6e908068321e343efd881fd24b90d300a2db152759d08630bfb"
+}
